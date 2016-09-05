@@ -1,4 +1,4 @@
-This repository contains several pieces of pvpython scripts. [pvpython](http://www.paraview.org/Wiki/ParaView/Python_Scripting) is a Paraview python clientused to access all kinds of features in Paraview through python scripts.
+This repository contains several pieces of pvpython scripts. [pvpython](http://www.paraview.org/Wiki/ParaView/Python_Scripting) is a Paraview python client used to access all kinds of features in Paraview through python scripts.
 
 The two scripts have the same function, but `testScript4.py`is valid for Paraview-4.1.0, and `testScript5.py` for Paraview-5.1.0.
 
